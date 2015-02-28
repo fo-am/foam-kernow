@@ -8,29 +8,29 @@
 ### Interpretation
 1.1 In these Articles, unless the context otherwise requires:
 
-Act: means the Companies Act 2006;
+**Act**: means the Companies Act 2006;
 
-Appointor: has the meaning given in article 15(1);
+**Appointor**: has the meaning given in article 15(1);
 
-Articles: means the Company's articles of association for the time being in force;
+**Articles**: means the Company's articles of association for the time being in force;
 
-Business Day: means any day (other than a Saturday, Sunday or public holiday in the United Kingdom) on which clearing banks in the City of London are generally open for business;
+**Business Day**: means any day (other than a Saturday, Sunday or public holiday in the United Kingdom) on which clearing banks in the City of London are generally open for business;
 
-Conflict: means a situation in which a director has or can have, a direct or indirect interest that conflicts or possibly may conflict, with the interests of the Company;
+**Conflict**: means a situation in which a director has or can have, a direct or indirect interest that conflicts or possibly may conflict, with the interests of the Company;
 
-Eligible Director: means a director who would be entitled to vote on the matter at a meeting of directors (but excluding in relation to the authorisation of a Conflict pursuant to Article 11, any director whose vote is not to be counted in respect of the particular matter);
+**Eligible Director**: means a director who would be entitled to vote on the matter at a meeting of directors (but excluding in relation to the authorisation of a Conflict pursuant to Article 11, any director whose vote is not to be counted in respect of the particular matter);
 
-Member: means a member of the Company;
+**Member**: means a member of the Company;
 
-Model Articles: means the model articles for private companies limited by guarantee contained in Schedule 2 of the Companies (Model Articles) Regulations 2008 (SI 2008/3229) as amended prior to the date of adoption of these Articles and reference to a numbered "Model Article" is a reference to that article of the Model Articles; and
+**Model Articles**: means the model articles for private companies limited by guarantee contained in Schedule 2 of the Companies (Model Articles) Regulations 2008 (SI 2008/3229) as amended prior to the date of adoption of these Articles and reference to a numbered "**Model Article**" is a reference to that article of the Model Articles; and
 
-Rules: as such term is defined in article .
+**Rules**: as such term is defined in article .
 
 1.2 Save as otherwise specifically provided in these Articles, words and expressions which have particular meanings in the Model Articles shall have the same meanings in these Articles, subject to which and unless the context otherwise requires, words and expressions which have particular meanings in the Act shall have the same meanings in these Articles.
 
 1.3 Headings in these Articles are used for convenience only and shall not affect the construction or interpretation of these Articles.
 
-1.4 A reference in these Articles to an "article" is a reference to the relevant article of these Articles unless expressly provided otherwise.
+1.4 A reference in these Articles to an "**article**" is a reference to the relevant article of these Articles unless expressly provided otherwise.
 
 1.5 Unless expressly provided otherwise, a reference to a statute, statutory provision or subordinate legislation is a reference to it as it is in force from time to time, taking account of:
 
@@ -38,7 +38,7 @@ Rules: as such term is defined in article .
 
 (b) any amendment or re-enactment and includes any statute, statutory provision or subordinate legislation which it amends or re-enacts.
 
-1.6 Any phrase introduced by the terms “including”, "include", "in particular" or any similar expression shall be construed as illustrative and shall not limit the sense of the words preceding those terms.
+1.6 Any phrase introduced by the terms “**including**”, "**include**", "**in particular**" or any similar expression shall be construed as illustrative and shall not limit the sense of the words preceding those terms.
 
 1.7 The Model Articles shall apply to the Company, except in so far as they are modified or excluded by these Articles.
 
@@ -352,7 +352,7 @@ For the purposes of this article, no account shall be taken of any part of a day
 
 ### Rules
 
-The directors may establish rules governing matters relating to Company administration that are required from time to time for the effective operation of the Company (for example, the provisions relating to classes of members, membership fees and subscriptions and the admission criteria for members) (the “Rules”). If there is a conflict between the terms of these Articles and any rules established under this Article, the terms of these Articles shall prevail.
+The directors may establish rules governing matters relating to Company administration that are required from time to time for the effective operation of the Company (for example, the provisions relating to classes of members, membership fees and subscriptions and the admission criteria for members) (the “**Rules**”). If there is a conflict between the terms of these Articles and any rules established under this Article, the terms of these Articles shall prevail.
 
 ### Indemnity and insurance
 
