@@ -6,7 +6,7 @@
 
 ### Introduction
 ### Interpretation
-  1.1 In these Articles, unless the context otherwise requires:
+1.1. In these Articles, unless the context otherwise requires:
 Act: means the Companies Act 2006;
 Appointor: has the meaning given in article 15(1);
 Articles: means the Company's articles of association for the time being in force;
