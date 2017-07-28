@@ -4,7 +4,13 @@
 general principles and guesswork relating to FoAM Kernow only, so
 please get professional advice on these matters.*
 
-What we are:
+The purpose of this document is to record decisions we have taken
+specific to our particular situation in order to:
+
+1. Remember decisions made within the organisation.
+2. Have it on public record for authorities as our mode of operation.
+
+Firstly, what FoAM Kernow is are:
 
 * A private company limited by guarantee.
 * A 'non-profit' - more a US definition than a UK one but more widely understood.
@@ -41,7 +47,7 @@ everything down into three classes of transactions:
 3. Outside the scope (not a sale)
 
 The difference between standard, reduced and zero rated depend what
-you are selling - books, childrens clothes etc. We don't need to worry
+you are selling - books, children's clothes etc. We don't need to worry
 about that, anything we supply will almost certainly be standard
 rated.
 
@@ -89,7 +95,7 @@ with them - we supplied it to them.
 ### Outside of the scope #2 - funded work that is collaborative
 
 If we are part of a collaborative project with a lead partner who is
-redistributing funding to us - then this is not nessisarily classed as
+redistributing funding to us - then this is not necessarily classed as
 a supply:
 
 > Provided HMRC is satisfied that the collaborative arrangement is
@@ -192,7 +198,7 @@ However we must still complete corporation tax returns, which
 sometimes we will need to pay out when we happen to show a profit, the
 next year they will be paid back as a rebate when we show a
 loss. Seems a waste of paperwork and time for us and HMRC both, as
-well as needing to be taken into account for cashflow, but there we
+well as needing to be taken into account for cash flow, but there we
 go.
 
 ### R&D Tax Relief
