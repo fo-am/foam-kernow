@@ -31,7 +31,7 @@ We had to employ a VAT expert to go through our situation with us and
 use their advice to provide the principles that we follow. The quotes
 in this section come from documents they found for us.
 
-# VAT Eligibility
+## VAT Eligibility
 
 VAT is tax on sales. In order to define what a sale is, VAT breaks
 everything down into three classes of transactions:
@@ -54,7 +54,7 @@ smaller. It's my understanding that HMRC in any case do not want to be
 collecting VAT on funding that is being provided by a different part
 of the government as this is essentially a waste of time.
 
-# Input VAT
+## Input VAT
 
 VAT has a definition of 'supply' to define if it is a sale, and
 taxable or not. A transaction is considered a supply and thus VAT
@@ -68,7 +68,7 @@ transaction.
 
 Sometimes our work is supply, sometimes it is not.
 
-# Outside of the scope of VAT type #1 - directly funded work
+### Outside of the scope of VAT type #1 - directly funded work
 
 > Generally research is outside the scope of VAT when it is funded,
 > either by the public sector or by the charitable sector, for the
@@ -86,7 +86,7 @@ them. This can be easy to define by who owns the "thing" made after
 the end of the project - if it remains with us, we were supported,
 with them - we supplied it to them.
 
-# Outside of the scope #2 - funded work that is collaborative
+### Outside of the scope #2 - funded work that is collaborative
 
 If we are part of a collaborative project with a lead partner who is
 redistributing funding to us - then this is not nessisarily classed as
