@@ -1,12 +1,12 @@
 # FoAM Kernow business learnings
 
-*Disclaimer: I am not a laywer or accountant. These are findings,
+*Disclaimer: I am not a lawyer or accountant. These are findings,
 general principles and guesswork relating to FoAM Kernow only, so
 please get professional advice on these matters.*
 
 What we are:
 
-* A private company limited by guarentee.
+* A private company limited by guarantee.
 * A 'non-profit' - more a US definition than a UK one but more widely understood.
 * An SME (according to UK and EU rules).
 * A research organisation (according to EU rules, as we have been registered and have a PIC number).
@@ -16,7 +16,11 @@ What we are:
 
 ## PAYE
 
+TODO 
+
 ## VAT
+
+TO FINISH
 
 Getting an audit...
 
@@ -25,12 +29,12 @@ Getting an audit...
 VAT is payable on income that for work that is regarded as a supply...
 
 There is no hard and fast legal definition from HMRC that can cover
-all cases, so we have to interpret the rules and come to a desision as
+all cases, so we have to interpret the rules and come to a decision as
 best we can.
 
 We regard project as classified as a supply unless our role is as a
 partner organisation on a grant funded research project, or we are
-receiving direct funding (ACE, FEAST, British Science Assocation).
+receiving direct funding (ACE, FEAST, British Science Association).
 
 To be classified as support:
 
@@ -38,9 +42,7 @@ To be classified as support:
 * There is no contract, or if there is it is in the form of a 
   collaboration agreement.
 
-### Research
-
-## Corporation tax
+## Corporation Tax
 
 Will be the sum of:
 
@@ -50,8 +52,8 @@ Will be the sum of:
 Corporation tax is later recalculated based on your actual profit/loss
 the following year.
 
-As we are a non-profit our profit/loss must nessesarily equal zero
-over a suffiently long time scale (as there is no legal way we can
+As we are a non-profit our profit/loss must necessarily equal zero
+over a sufficiently long time scale (as there is no legal way we can
 extract money that does not show as an loss, unlike dividends to
 shareholders).
 
@@ -62,13 +64,13 @@ loss. Seems a waste of paperwork and time for us and HMRC both, as
 well as needing to be taken into account for cashflow, but there we
 go.
 
-### R&D tax relief
+### R&D Tax Relief
 
 Looking at the document [currently
 here](https://www.gov.uk/guidance/corporation-tax-research-and-development-rd-relief)
 and [the details currently
 here](https://www.gov.uk/guidance/corporation-tax-research-and-development-rd-relief#uncertain)
-we are elegible to ease the cashflow problem with corporation tax and
+we are eligible to ease the cash flow problem with corporation tax and
 even potentially get some extra back by claiming for R&D tax
 relief. 
 
@@ -83,7 +85,7 @@ counts as R&D.
 * It's stated as a research project in the proposal.
 * It is a prototype rather than a finished article.
 * We expect to publish the work in academic journals.
-* It is an open source project, so not soley for company gain. 
+* It is an open source project, so not solely for company gain. 
 * It is a technological development of a natural sciences project.
 
 Good candidates for this include Viruscraft and Sonic Kayaks.
@@ -108,7 +110,7 @@ Even our 'educational' games (in the case of viruscraft) qualify as we
 are carrying out broader research in the form of workshops, developing
 simulation models - and this has the capacity to lead to scientific
 understanding (e.g. the hungry birds game where player's behaviour
-during an educational game highlighed bad assumptions in the
+during an educational game highlighted bad assumptions in the
 underlying genetic modelling to do with predator perception).
 
 > The advance being sought must constitute an advance in the overall
@@ -125,7 +127,7 @@ Two strong points here which :
 source/open hardware - therefore they are able to be used to advance
 broader technological uncertainties outside of our company, and have
 been (we don't always know about this, but e.g. the fluxus shader code
-being used in penelope visualisations to model brain scans by a
+being used in Penelope visualisations to model brain scans by a
 researcher in a neuroscience project for example).
 
 Interestingly:
@@ -175,5 +177,4 @@ tales) as experiments in combining new technologies.
 > within the scope of R&D for tax purposes.
 
 It's also ok for R&D projects to fail, which is nice.
-
 
