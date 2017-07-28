@@ -1,5 +1,9 @@
 # FoAM Kernow business learnings
 
+*Disclaimer: I am not a laywer or accountant. These are findings,
+general principles and guesswork relating to FoAM Kernow only, so
+please get professional advice on these matters.*
+
 What we are:
 
 * A private company limited by guarentee.
