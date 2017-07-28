@@ -10,13 +10,13 @@ specific to our particular situation in order to:
 1. Remember decisions made within the organisation.
 2. Have it on public record for authorities as our mode of operation.
 
-Firstly, what FoAM Kernow is are:
+Firstly, what FoAM Kernow is:
 
-* A private company limited by guarantee.
-* A 'non-profit' - more a US definition than a UK one but more widely understood.
-* An SME (according to UK and EU rules).
-* A research organisation (according to EU rules, as we have been registered and have a PIC number).
-* A social enterprise - no strict definition exists but over 50% (100%!) of our profits are put back into the company to achieve our aims as specified in our articles of association.
+1. A private company limited by guarantee.
+2. A 'non-profit' - more a US definition than a UK one but more widely understood.
+3. An SME (according to UK and EU rules).
+4. A research organisation (according to EU rules, as we have been registered and have a PIC number).
+5. A social enterprise - no strict definition exists but over 50% (100%!) of our profits are put back into the company to achieve our aims as specified in our articles of association.
 
 # Tax
 
