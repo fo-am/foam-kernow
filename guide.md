@@ -73,7 +73,28 @@ even potentially get some extra back by claiming for R&D tax
 relief. 
 
 Although we are a research organisation, the definitions are quite
-specific (unlike those for VAT supply).
+specific (unlike those for VAT supply) so a conservative approach to
+this is required. 
+
+The more of these which are true, the more likely it is that a project
+counts as R&D.
+
+* Funding is classified as support rather than supply with regard to VAT.
+* It's stated as a research project in the proposal.
+* It is a prototype rather than a finished article.
+* We expect to publish the work in academic journals.
+* It is an open source project, so not soley for company gain. 
+* It is a technological development of a natural sciences project.
+
+Good candidates for this include Viruscraft and Sonic Kayaks.
+
+What we can claim back:
+
+* Director or employee salaries (time).
+* Possibly 65% of subcontractor costs (as an SME) but there are further details for this.
+* Material costs.
+
+To quote the .gov:
 
 > To be R&D, a company must be undertaking a project to seek an advance
 > in science or technology through the resolution of scientific or
@@ -155,20 +176,4 @@ tales) as experiments in combining new technologies.
 
 It's also ok for R&D projects to fail, which is nice.
 
-What we can/cannot claim back:
-
-* Director or employee salaries (time).
-* Possibly 65% of subcontractor costs as an SME.
-* Material costs.
-
-So in summary, although at first glance "everything we do is R&D", a
-conservative approach to this is required. We can claim all expenses
-for a project are R&D if, probably one or more of these are true:
-
-* Funding is classified as support with regard to VAT.
-* It's stated as a research project in the proposal.
-* It is a prototype.
-* We expect to publish the work in academic journals.
-* It is an open source project, so not soley for company gain. 
-* It is a technological development of a natural sciences project.
 
